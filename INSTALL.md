@@ -6,10 +6,28 @@
 
 2. Once you've downloaded the correct zip folder, navigate to that folder and unzip it's contents. 
 
-3. Now open up Steam and right-click on your Titanfall 2 tab (like so):
-   Click on *Properties* and then navigate to *Local Files* and hit the button **Browse**.
+3. ***For Steam users:***
+   In Steam, right-click on Titanfall 2 in your library (like so):
+   Hover on *Manage* and then click on **Browse local files**.
+   
+![rightclicksteam](https://user-images.githubusercontent.com/44943510/147385633-57f09d98-b0c2-4107-b5e6-57515c9cbd40.png)
+   
+   ***For Origin users:***
+   In Origin, click on *Origin* in top left, then *Application settings*. 
+   After that, go to *installs and saves*. 
+   In there, you will find a default path to the install folder.
+   Unless you changed it before, it's C:\Program Files (x86)\Origin Games
+   If you changed the default directory, or specified a different directory when installing the game, you will need to head there.
 
-![rightclick](https://user-images.githubusercontent.com/31524934/147367670-8f49f4f6-f8ac-4da8-90c9-313aeeb60e4b.png)
+![rightclickorigin_1](https://user-images.githubusercontent.com/44943510/147385492-c6a458a6-68d4-4853-97a9-d7a653a77a70.png)
+   
+![rightclickorigin_2](https://user-images.githubusercontent.com/44943510/147385456-e1de546a-c1b6-48a5-ad55-9481972d5bd1.png)  
+   
+   ***For EA App users***:
+   Click on the 3 dots in the top right corner of the icon for Titanfall 2 and select *Open install folder*
+   
+![rightclickea](https://user-images.githubusercontent.com/44943510/147385478-9e035e1a-efab-4d5d-ad93-f7ba359b8126.png)
+
 
 4. It'll open up a folder with the game files for Titanfall 2 inside of it.
    Now you're gonna want to open up the unziped contents of the folder you downloaded and select all the contents inside (like so):
